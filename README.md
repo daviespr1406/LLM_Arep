@@ -104,7 +104,7 @@ OPENAI_API_KEY=tu_clave_aqui
 ![](assets/2.png)
 ---
 
-## 📚 Referencias
+## Referencias
 
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 - [LangChain Official Docs](https://python.langchain.com)
